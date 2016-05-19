@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/npm/npm-registry-couchapp"
+    "url": "git://github.com/pgaubatz/npm-registry-couchapp"
   },
   "keywords": [
     "npm",
@@ -37,7 +37,7 @@
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npm/npm-registry-couchapp/issues"
+    "url": "https://github.com/pgaubatz/npm-registry-couchapp/issues"
   },
-  "homepage": "https://github.com/npm/npm-registry-couchapp"
+  "homepage": "https://github.com/pgaubatz/npm-registry-couchapp"
 }
